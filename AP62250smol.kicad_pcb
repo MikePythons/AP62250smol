@@ -109,7 +109,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bc8a76f5-07a3-4631-b34d-350c0e149842)
     )
-    (fp_text value "B" (at 0 0 -90 unlocked) (layer "F.SilkS")
+    (fp_text value "C" (at 0 0 -90 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 2ca543e3-9652-4c1d-a7b4-34e44b920251)
     )

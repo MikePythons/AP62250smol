@@ -866,7 +866,7 @@
     (property "Reference" "MISC1" (id 0) (at 184.15 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "B" (id 1) (at 182.88 111.76 0)
+    (property "Value" "C" (id 1) (at 182.88 111.76 0)
       (effects (font (size 4 4) bold italic) (justify left))
     )
     (property "Footprint" "MikeFootprintLib:RevisionSymbol_Small" (id 2) (at 184.15 111.76 0)
@@ -1008,7 +1008,7 @@
       (reference "L1") (unit 1) (value "2.2uF") (footprint "MikeFootprintLib:L_Inductor_tdk_VLS5045EX")
     )
     (path "/b59ecb45-aa0d-46e4-bca5-813980b0b68f"
-      (reference "MISC1") (unit 1) (value "B") (footprint "MikeFootprintLib:RevisionSymbol_Small")
+      (reference "MISC1") (unit 1) (value "C") (footprint "MikeFootprintLib:RevisionSymbol_Small")
     )
     (path "/75694f88-736a-46d6-b554-515f720e0555"
       (reference "R1") (unit 1) (value "52.3k") (footprint "Capacitor_SMD:C_0603_1608Metric")
