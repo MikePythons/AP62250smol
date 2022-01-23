@@ -738,7 +738,7 @@
     (uuid 28d4f2e4-98ef-4d05-8fc8-12f2a6290689)
     (property "Reference" "U1" (id 0) (at 63.5 32.8634 0))
     (property "Value" "AP62250Z6" (id 1) (at 63.5 35.6385 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-563" (id 2) (at 63.5 41.91 0)
+    (property "Footprint" "MikeFootprintLib:SOT-563_wider_clearance" (id 2) (at 63.5 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP62250.pdf" (id 3) (at 63.5 41.91 0)
@@ -866,7 +866,7 @@
     (property "Reference" "MISC1" (id 0) (at 184.15 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "C" (id 1) (at 182.88 111.76 0)
+    (property "Value" "D" (id 1) (at 182.88 111.76 0)
       (effects (font (size 4 4) bold italic) (justify left))
     )
     (property "Footprint" "MikeFootprintLib:RevisionSymbol_Small" (id 2) (at 184.15 111.76 0)
@@ -1008,7 +1008,7 @@
       (reference "L1") (unit 1) (value "2.2uF") (footprint "MikeFootprintLib:L_Inductor_tdk_VLS5045EX")
     )
     (path "/b59ecb45-aa0d-46e4-bca5-813980b0b68f"
-      (reference "MISC1") (unit 1) (value "C") (footprint "MikeFootprintLib:RevisionSymbol_Small")
+      (reference "MISC1") (unit 1) (value "D") (footprint "MikeFootprintLib:RevisionSymbol_Small")
     )
     (path "/75694f88-736a-46d6-b554-515f720e0555"
       (reference "R1") (unit 1) (value "52.3k") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1017,7 +1017,7 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/28d4f2e4-98ef-4d05-8fc8-12f2a6290689"
-      (reference "U1") (unit 1) (value "AP62250Z6") (footprint "Package_TO_SOT_SMD:SOT-563")
+      (reference "U1") (unit 1) (value "AP62250Z6") (footprint "MikeFootprintLib:SOT-563_wider_clearance")
     )
   )
 )
